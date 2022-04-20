@@ -12,7 +12,7 @@
 * **5. Open our webrowser and enter "localhost/dvwa" (127.0.0.1/dvwa) into the url bar.**
 * **6. If you are a "mysql.error()" read the error and correct it.** 
   * Warning, this is often an error related to the creation of the database.
-  * If that is the case, go to the following file "config.inc.php" which by default is set like this:**
+  * If that is the case, go to the following file "config.inc.php" which by default is set like this:
 ```php
 $_DVWA[ 'db_server'] = '127.0.0.1';
 $_DVWA[ 'db_database' ] = 'dvwa';
