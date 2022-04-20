@@ -35,4 +35,4 @@ $_DVWA[ 'db_port'] = '3306';
  
 * **9. Others informations :**    
   * Remember to change the "Security Level" by clicking on "DVWA Security" on the left panel.
-  * Starts from "Low" level to "Hard" level.
+  * Starts from "Low" level to "Impossible" level.
