@@ -33,8 +33,8 @@ Many tests were carried out on VirtualBox.
 * **Wednesday April 13:**
     - Course: 8h00 - 12h30 = 4h30
 * **Wednesday April 20:**
-    - Course: 8h30 - 12h30 = 4h00
-    - Virtual Lab: 13h45 - 17h15 = 3h30
+    - Course: 8h00 - 12h30 = 4h30
+    - Virtual Lab: 13h45 - 16h45 = 3h00
 * **Friday April 22:**
     - Virtual Lab: 8h00 - 12h30 = 4h30
     - Virtual Lab: 13h30 - 15h00 = 1h30
