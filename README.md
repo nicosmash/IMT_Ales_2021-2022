@@ -19,3 +19,5 @@
 * **Friday April 22:**
     - Virtual Lab: 8h00 - 12h30 = 4h30
     - Virtual Lab: 13h30 - 15h00 = 1h30
+* **Wednesday June 22:**
+    - Exam QCM: 11h30 - 12h30 = 1h00
