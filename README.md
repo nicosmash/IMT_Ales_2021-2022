@@ -5,7 +5,7 @@
 ## 📢 Information :
 
 * **Course :**
-    * **Exam (60%) : QCM with more than 60 questions**
+    * **Exam (60%) : QCM with more than 90 questions**
     * **Bonus (10%) : Create a report about TDs**
 * **Virtual Lab : Deadline to submit reports June 22**
     * **Report (40%) for all VM (explain each step and provide explanations so that the reader who doesn't know the subject can understand what you have done)**
