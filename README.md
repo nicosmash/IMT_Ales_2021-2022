@@ -9,7 +9,7 @@
 * **Course :**
     * **Exam (60%) : QCM with more than 90 questions**
     * **Bonus (10%) : Create a report about TDs**
-* **Virtual Lab : Deadline to submit reports June 22**
+* **Virtual Lab :**
     * **Report (40%) for all VM (explain each step and provide explanations so that the reader who doesn't know the subject can understand what you have done)**
 
 ## 📢 Planning for SR Group: 18 hours
@@ -22,7 +22,7 @@
     - Virtual Lab: 8h00 - 12h30 = 4h30
     - Virtual Lab: 13h30 - 15h00 = 1h30
 * **Wednesday June 22:**
-    - Exam QCM: 11h30 - 12h30 = 1h00
+    - Exam QCM + Deadline to submit reports : 08h15 - 10h15 = 2h00
 
 ## 📢 Planning for DL Group: 18 hours
 * **Tuesday June 7:**
@@ -34,4 +34,4 @@
 * **Monday June 20:**
     - To be defined: 9h00 - 17h00 = To be defined
 * **Wednesday June 22:**
-    - Exam QCM: To be defined
+    - Exam QCM + Deadline to submit reports : 08h15 - 10h15 = 2h00
