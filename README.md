@@ -26,8 +26,8 @@
 
 ## 📢 Planning for DL Group: 18 hours
 * **Tuesday June 7:**
-    - Course: 9h00 - 12h30 = 3h30
-    - Virtual Lab: 14h00 - 17h00 = 3h00
+    - Course: 9h00 - 12h00 = 3h00
+    - Virtual Lab: 13h30 - 17h00 = 3h30
 * **Wednesday June 8:**
     - Course: 9h00 - 12h30 = 3h30
     - Virtual Lab: 14h00 - 17h00 = 3h00
