@@ -32,6 +32,7 @@
     - Course: 9h00 - 12h30 = 3h30
     - Virtual Lab: 14h00 - 17h00 = 3h00
 * **Monday June 20:**
-    - To be defined: 9h00 - 17h00 = To be defined
+    - Virtual Lab: 8h00 - 11h30 = 3h30
+    - Virtual Lab: 12h30 - 14h00 = 1h30
 * **Wednesday June 22:**
     - Exam QCM + Deadline to submit reports : 08h15 - 10h15 = 2h00
